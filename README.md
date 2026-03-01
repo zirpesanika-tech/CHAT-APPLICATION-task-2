@@ -7,4 +7,5 @@
 "MENTOR":NEELA SANTOSH
 #Real-time chat application is web-based application developed using node,js,express.js and socket.io
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/29dd92d9-cddb-444f-9ff5-c68d918824ce)
 
